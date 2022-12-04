@@ -18,3 +18,16 @@ body,p,h1,h2,h3,ul,ol {
     margin: 0 auto;
     padding: 0 15px;
 }
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.row > div {
+    padding: 15px;
+    margin: 0 auto;
+    background-color: wheat;
+    border: 1px solid black;
+}
+.col-3 {
+
+}
