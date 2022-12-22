@@ -9,7 +9,7 @@
 .menu_inner {
     margin: 25px 0;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
 .nav {
