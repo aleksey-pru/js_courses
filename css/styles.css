@@ -22,10 +22,10 @@
     text-transform: uppercase;
     color: #999;
     text-decoration: none;
+    padding: 10px 20px;
 }
 .nav li a:hover {
     background-color: orange;
-}
-.nav li {
-    padding-left: 25px;
+    color: white;
+    border-radius: 5px;
 }
