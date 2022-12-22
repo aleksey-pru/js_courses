@@ -1,11 +1,13 @@
 * {
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 .container {
     width: 1170px;
     margin: 0 auto;
 }
 .menu_inner {
+    margin: 25px 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -15,6 +17,15 @@
     list-style: none;
     padding: 0;
     margin: 0;
+}
+.nav li a {
     text-transform: uppercase;
     color: #999;
+    text-decoration: none;
+}
+.nav li a:hover {
+    background-color: orange;
+}
+.nav li {
+    padding-left: 25px;
 }
