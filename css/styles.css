@@ -24,6 +24,7 @@
 .number {
     color: #a1471f;
     font-size: 70px;
+    font-weight: bold;
 }
 .text {
     color: white;
