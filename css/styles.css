@@ -14,16 +14,20 @@
 .info_inner {
     margin: 25px 0;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 .item {
-    font-size: 60px;
+    text-align: center;
 }
 .number {
     color: #a1471f;
+    font-size: 70px;
 }
 .text {
-
+    color: white;
+    text-transform: uppercase;
+    font-size: 25px;
 }
 
