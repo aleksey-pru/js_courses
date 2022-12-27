@@ -8,22 +8,15 @@
     padding-top: 20px;
     padding-bottom: 20px;
 }
-.menu_inner {
+.info {
+    background-color: #03251a;
+}
+.info_inner {
     margin: 25px 0;
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
-.nav {
-    display: flex;
-    list-style: none;
-    margin: 0;
-    text-transform: uppercase;
-    color: #999;
-    text-decoration: none;
-    padding: 10px 20px;
-}
-.nav li {
-   padding-left: 40px;
-    padding-right: 40px;
-}
+
+
