@@ -16,7 +16,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.item {
+    font-size: 60px;
+}
+.number {
+    color: #a1471f;
+}
+.text {
 
 }
-
 
