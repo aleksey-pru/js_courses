@@ -11,13 +11,11 @@
 }
 .number {
     color: white;
-    font-size: 60px;
-    padding-top: 15px;
+    font-size: 20px;
 }
 .text {
-    color: #884b26;
-    font-size: 20px;
-    margin-bottom: 25px;
+    color: white;
+    font-size: 17px;
     text-transform: uppercase;
 }
 .box_inner {
@@ -27,17 +25,13 @@
     align-items: center;
 }
 .item {
-    text-align: center;
+    text-align: start;
 }
-.line {
-    width: 30px;
-    height: 3px;
-    background-color: white;
-    margin: 0 auto;
-}
+
 i.fa {
-    font-size: 50px;
-    color: #884b26;
+    font-size: 40px;
+    color: white;
+    padding-left: 40px;
 }
 
 
