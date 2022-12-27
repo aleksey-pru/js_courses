@@ -12,11 +12,14 @@
 }
 .number {
     color: white;
-    font-size: 70px;
+    font-size: 60px;
+    padding-top: 15px;
 }
 .text {
     color: #884b26;
-    font-size: 25px;
+    font-size: 20px;
+    margin-bottom: 25px;
+    text-transform: uppercase;
 }
 .box_inner {
     height: 300px;
@@ -28,7 +31,14 @@
     text-align: center;
 }
 .line {
-
+    width: 30px;
+    height: 3px;
+    background-color: white;
+    margin: 0 auto;
+}
+i.fa {
+    font-size: 50px;
+    color: #884b26;
 }
 
 
