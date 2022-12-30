@@ -1,6 +1,5 @@
-* {
+{
     box-sizing: border-box;
-    font-family: sans-serif;
 }
 .container {
     width: 1170px;
@@ -33,5 +32,3 @@ i.fa {
     color: white;
     padding-left: 40px;
 }
-
-
