@@ -19,6 +19,9 @@ p {
     margin: 0 auto 60px;
     line-height: 30px;
 }
-.icon-box {
-
+.icon-box i.fa {
+    margin-bottom: 60px;
+    color: #00b2ff;
+    font-size: 80px;
+    margin: 0 40px;
 }
