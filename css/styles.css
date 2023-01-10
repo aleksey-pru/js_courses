@@ -5,23 +5,3 @@
     width: 1170px;
     margin: 0 auto;
 }
-.box_inner {
-    text-align: center;
-}
-h1 {
-    max-width: 550px;
-    margin: 80px auto 30px;
-    line-height: 45px;
-    font-weight: normal;
-}
-p {
-    max-width: 900px;
-    margin: 0 auto 60px;
-    line-height: 30px;
-}
-.icon-box i.fa {
-    margin-bottom: 60px;
-    color: #00b2ff;
-    font-size: 80px;
-    margin: 0 40px;
-}
