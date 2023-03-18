@@ -1,10 +1,9 @@
-function factorial(n) {
-    let fact = 1;
-    if (n==0) return fact;
-    for(let i=1; i<=n; i++) {
-        fact *= i;
+function reverse (number) {
+    number += '';
+    let reverseNumber = '';
+    for (let i=number.length-1; i>=0; i--) {
+        reverseNumber += number[i];
     }
-    return fact;
+    return +reverseNumber
 }
-let a = factorial(5);
-console.log(a);
+console.log(reverse(5493));
